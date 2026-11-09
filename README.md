@@ -1,4 +1,4 @@
-# Práctica 10. `std::string`, `std::array`, `std::vector`. Exercism.
+# Práctica 10. `std::string`, `std::array`, `std::vector`
 
 # Factor de ponderación: 8
 
